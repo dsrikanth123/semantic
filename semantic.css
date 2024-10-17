@@ -1,0 +1,25 @@
+header{
+    background-color: chartreuse;
+    width:100%;
+}
+.art{
+    background-color: cyan;
+    width: 100%;
+
+}
+article{
+    background-color: aquamarine;
+    width: 100%;
+}
+section{
+    background-color: fuchsia;
+    width: 100%;
+}
+footer{
+    background-color: black;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
